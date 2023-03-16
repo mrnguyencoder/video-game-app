@@ -1,4 +1,3 @@
-
 import genres from "../data/genres";
 
 export interface Genre {
